@@ -2,7 +2,7 @@
 A full stack food application where you can find recipe of different dishes.
 
 
-![Project Logo](https://paste.pics/af792f6ef308884a71e1ba741718445f) 
+![Project Logo](./main.jpg) 
 
 # Start-backend (running is mandatory as its not deployed)
     nodemon index.js
@@ -11,4 +11,4 @@ A full stack food application where you can find recipe of different dishes.
     npm start
 
 # deployed link
-    
+    https://frontend-nu-neon.vercel.app
