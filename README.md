@@ -4,10 +4,13 @@ A full stack food application where you can find recipe of different dishes.
 
 ![Project Logo](./main.jpg) 
 
-# Start-backend (running is mandatory as its not deployed)
+# Description
+    This app helps us to find recipes of different food items and also alows us to search food based on ingredients.
+
+# Start-backend 
     nodemon index.js
 
-# Start-Frontend(can use deloyed link or the live server)
+# Start-Frontend
     npm start
 
 # deployed link
